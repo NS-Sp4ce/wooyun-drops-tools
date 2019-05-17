@@ -1,6 +1,6 @@
 <?php
 
-//require('conn.php');
+require('conn.php');
 ?>
 <!DOCTYPE html>
 <html>
