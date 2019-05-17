@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-
+<?php	
+ require('conn.php');	
+?>
 <head>
 	<meta charset="utf-8">
 	<title>
