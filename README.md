@@ -21,7 +21,7 @@ CREATE TABLE `drops` (
   `title` text NOT NULL,
   `link` text NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=1270 DEFAULT CHARSET=utf8
+) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8
 ```
 
 # 预览效果
