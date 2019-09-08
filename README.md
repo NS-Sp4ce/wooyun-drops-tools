@@ -41,15 +41,9 @@ CREATE TABLE `drops` (
 
 # 所需文件下载地址
 
-## 知识库：
+## 知识库&漏洞库&完整虚拟机下载
 
-链接：https://pan.baidu.com/s/1CZVZxdHzl7L8y3dGWN-aOQ 
-提取码：uuuo
-
-## 漏洞库
-
-链接：https://pan.baidu.com/s/1LGSwDmVwtlffyM8I-1hQzw 
-提取码：8duw
+https://cloud.0x20h.com
 
 # 问题反馈
 开issues或Email:Sp4ce.sec@gmail.com
